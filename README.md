@@ -24,7 +24,10 @@ SublimeLinter For Qunar JS
 
 
 
-**无Package Control安装方法**
+**源码安装方法**
+
+如果您的Sublime Text 3没有安装Package Control也可以选择此方法进行安装，如果已经安装了Package Control则请使用第一种安装方式
+
 
 1. 安装Sublime Text 3
 
