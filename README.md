@@ -11,6 +11,7 @@ SublimeLinter For Qunar JS
 
 
 **Package Control在线安装方法**
+
 如果您的Sublime Text 3未安装package control，请跳转到[package control安装](https://packagecontrol.io/installation)
 
 1. 打开package control界面(ctrl+shift+p), 输入Add Repository, 鼠标选择下拉框中的Add Repository选项；
@@ -20,6 +21,7 @@ SublimeLinter For Qunar JS
 3. 打开package control界面(ctrl+shift+p), 输入Install Package, 鼠标选择下拉框中的Install Package选项；
 
 4. 在package control中输入：SublimeLinter-for-QJS，选择下拉框中的SublimeLinter-for-QJS选项，等待安装完成即可。
+
 
 
 **无Package Control安装方法**
